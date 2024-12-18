@@ -17,3 +17,5 @@ I am an enthusiastic data scientist with a strong background in data analysis an
 ⚡ Fun fact: I can analyze data faster than I can decide what to have for lunch!
 
 🏃 Hobbies: Powerlifting, playing volleyball, and travelling to new places.
+
+📚 [Resume](https://docs.google.com/document/d/1UqrDu_oBi8upusbDUXeyxKLEuQufXURZZwUNlGGbqjU/edit?tab=t.0)
