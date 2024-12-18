@@ -4,7 +4,7 @@ I am an enthusiastic data scientist with a strong background in data analysis an
 
 🔭 I’m currently working on completing my Masters in Data Science and Analytics at the University of Calgary.
 
-🌱 I’m currently learning advanced data engineering tools and exploring cloud platforms to enhance my ability to deploy scalable data solutions.
+🌱 I’m currently learning data engineering tools and exploring cloud platforms to enhance my ability to deploy scalable data solutions.
 
 👯 I’m looking to collaborate on data-driven projects, particularly those involving machine learning, data analysis, and automation.
 
