@@ -56,7 +56,7 @@ Cumulative GPA: 8.8/10
 
 [<img src="https://github.com/user-attachments/assets/456a6fed-7a98-4db3-a095-5e2db8dd3cf1" alt="image" width="35" height="35">](https://www.linkedin.com/in/hritvik-gaind/)
 
-## Languages and Skills
+## Languages and Skills:
 
 <img src="https://github.com/user-attachments/assets/8413980d-e938-4442-9a39-0210bf1ca211" alt="image" width="40" height="40" style="margin-right: 10px;">
 <img src="https://github.com/user-attachments/assets/8b4a8e80-94c2-44c3-a4b2-9d5c2932b48f" alt="image" width="40" height="40" style="margin-right: 10px;">
@@ -76,6 +76,14 @@ Cumulative GPA: 8.8/10
 <img src="https://github.com/user-attachments/assets/986c4e98-7f79-4963-806a-07d177ff87f9" alt="image" width="40" height="40" style="margin-right: 10px;">
 
 
+## Some of my blog contributions:
 
+- [Explaining data privacy to non technical stakeholders](https://www.linkedin.com/advice/3/youre-tasked-explaining-data-privacy-non-technical-fh7ce?trk=contr)
+
+- [Handling multiple analytical projects for demanding clients](https://www.linkedin.com/advice/1/juggling-multiple-analytics-projects-demanding-clients-c7rac)
+
+- [Conflicting priorities for choosing a machine learning model](https://www.linkedin.com/advice/0/your-team-cant-agree-machine-learning-model-how-1cfqf?trk=cah2)
+
+## Projects
 
 
