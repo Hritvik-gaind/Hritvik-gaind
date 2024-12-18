@@ -1,8 +1,5 @@
 ## Hi there, Hritvik this side👋
 
-<!--
-**Hritvik-gaind/Hritvik-gaind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an enthusiastic data scientist with a strong background in data analysis and machine learning. I enjoy tackling complex problems and extracting actionable insights from data to help organizations optimize processes and make data-driven decisions. I am eager to contribute my expertise to impactful projects that require creativity and analytical thinking.
 
 🔭 I’m currently working on completing my Masters in Data Science and Analytics at the University of Calgary.
