@@ -24,7 +24,7 @@ I am an enthusiastic data scientist with a strong background in data analysis an
 
 📚 [Resume](https://docs.google.com/document/d/1UqrDu_oBi8upusbDUXeyxKLEuQufXURZZwUNlGGbqjU/edit?tab=t.0)
 
-***
+
 
 ## Education
 
@@ -50,7 +50,6 @@ Cumulative GPA: 8.8/10
 
 **Relevant Coursework:** Machine Learning, Data Analytics, Applied linear algebra, Probability & Statistics, Data structures & algorithms, Human resource analytics, Software development fundamentals, Python for signal processing, Digital image & video processing.
 
-***
 
 ## Connect with me:
 
