@@ -83,6 +83,5 @@ Cumulative GPA: 8.8/10
 
 - [Conflicting priorities for choosing a machine learning model](https://www.linkedin.com/advice/0/your-team-cant-agree-machine-learning-model-how-1cfqf?trk=cah2)
 
-## Projects
 
 
